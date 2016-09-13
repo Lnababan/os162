@@ -1,0 +1,19 @@
+total 64
+drwxr-xr-x 15 lusi.indah61 StafCS 4096 Sep 13 09:44 .
+drwx--x--x  3 lusi.indah61 StafCS 4096 Sep 13 09:42 ..
+drwxr-xr-x  8 lusi.indah61 StafCS 4096 Sep 13 09:36 .git
+-rw-r--r--  1 lusi.indah61 StafCS    0 Sep 13 09:44 lab01.txt
+-rw-r--r--  1 lusi.indah61 StafCS    7 Sep 13 08:35 README.md
+drwxr-xr-x  2 lusi.indah61 StafCS 4096 Sep 13 09:31 SandBox
+drwxr-xr-x  2 lusi.indah61 StafCS 4096 Sep 13 09:42 week00
+drwxr-xr-x  2 lusi.indah61 StafCS 4096 Sep 13 09:38 week01
+drwxr-xr-x  2 lusi.indah61 StafCS 4096 Sep 13 08:51 week02
+drwxr-xr-x  2 lusi.indah61 StafCS 4096 Sep 13 08:51 week03
+drwxr-xr-x  2 lusi.indah61 StafCS 4096 Sep 13 08:53 week04
+drwxr-xr-x  2 lusi.indah61 StafCS 4096 Sep 13 08:53 week05
+drwxr-xr-x  2 lusi.indah61 StafCS 4096 Sep 13 08:53 week06
+drwxr-xr-x  2 lusi.indah61 StafCS 4096 Sep 13 08:54 week07
+drwxr-xr-x  2 lusi.indah61 StafCS 4096 Sep 13 08:54 week08
+drwxr-xr-x  2 lusi.indah61 StafCS 4096 Sep 13 08:55 week09
+drwxr-xr-x  2 lusi.indah61 StafCS 4096 Sep 13 08:55 week10
+/home/fasilkom/mahasiswa/l/lusi.indah61/os162/week01
