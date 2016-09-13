@@ -1,0 +1,6 @@
+#Name = Lusi Indah
+#NPM  = 1606954874
+
+Task from week 1 is to introduce and to learn how to connect our Github account to badak server, and how to making a change on our git by badak server (commit, pull, push).
+Besides it, in this week is also learn about how to using command making folder, create/remove file, how to change directory and etc.
+
