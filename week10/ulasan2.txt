@@ -1,0 +1,1 @@
+Container di setiap aplikasi yang jalan di NodeManager, sebagai wadah penyimpanan data/fileContainer di setiap aplikasi yang jalan di NodeManager, sebagai wadah penyimpanan data/file

@@ -1,0 +1,1 @@
+Perbedaannya adalah page pada permintaan pemberian halaman tidak akan pernah di-swap ke memori sampai ia benar-benar diperlukan. Untuk itu diperlukan adanya pengecekan dengan bantuan perangkat keras mengenai lokasi dari page saat ia dibutuhkan. Page diletakkan di memori  hanya jika diperlukan. 
